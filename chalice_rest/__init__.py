@@ -1,1 +1,0 @@
-"""chalice_rest package."""
